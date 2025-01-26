@@ -1,4 +1,4 @@
-## 👋 I'm Talha
+## 👋 I'm Talha Hafeez, a Software Engineer from Michigan!
 
 - 🔭 I’m currently working on MTC/docs and Memoira
 - 🌱 I’m currently learning Go and Rust
