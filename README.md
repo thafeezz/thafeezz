@@ -1,6 +1,8 @@
-## 👋 I'm Talha Hafeez, a Software Engineer from Michigan!
+## 👋 hey there!
 
-- 🔭 I’m currently working on MTC/docs
-- 🌱 I’m currently learning Go and Rust
-- 💬 Ask me about computer builds, teaching, and building community!
-- 📫 Contact me via email (thafeez[at]umich[dot]edu) or connect w/ me on [LinkedIn](https://www.linkedin.com/in/talha-hafeezz/)
+i'm talha hafeez, a swe, from michigan, and a umich cse alum.
+
+- 🔭 i'm currently working on MTC/docs
+- 🌱 i'm currently learning Go and Rust
+- 💬 ask me about computer builds, teaching, and building community!
+- 📫 contact me via email (thafeez[at]umich[dot]edu) or connect w/ me on [LinkedIn](https://www.linkedin.com/in/talha-hafeezz/)
